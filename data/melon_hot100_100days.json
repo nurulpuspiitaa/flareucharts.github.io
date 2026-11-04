@@ -3,7 +3,7 @@
   "chart": "HOT100 (100 Days)",
   "source": "Guysome",
   "artist": "FLARE U (플레어 유)",
-  "updated_at": "2026-11-04T17:00:00+09:00",
+  "updated_at": "2026-11-05T01:00:00+09:00",
   "snapshots": [
     {
       "snapshot_time": "2026-08-17T17:00:00+09:00",
@@ -6384,6 +6384,15 @@
       "snapshot_time": "2026-11-04T17:00:00+09:00",
       "date": "2026-11-04",
       "hour": 17,
+      "platform": "Melon",
+      "chart": "HOT100 (100 Days)",
+      "source": "Guysome",
+      "songs": []
+    },
+    {
+      "snapshot_time": "2026-11-05T01:00:00+09:00",
+      "date": "2026-11-05",
+      "hour": 1,
       "platform": "Melon",
       "chart": "HOT100 (100 Days)",
       "source": "Guysome",
