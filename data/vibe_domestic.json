@@ -3,7 +3,7 @@
   "chart": "Domestic",
   "source": "VIBE API",
   "artist": "FLARE U (플레어 유)",
-  "updated_at": "2026-11-13T12:00:00+09:00",
+  "updated_at": "2026-11-13T20:00:00+09:00",
   "snapshots": [
     {
       "snapshot_time": "2026-08-23T10:00:00+09:00",
@@ -5237,6 +5237,15 @@
           "track_id": 108405519
         }
       ]
+    },
+    {
+      "snapshot_time": "2026-11-13T20:00:00+09:00",
+      "date": "2026-11-13",
+      "hour": 20,
+      "platform": "VIBE",
+      "chart": "Domestic",
+      "source": "VIBE API",
+      "songs": []
     }
   ]
 }
