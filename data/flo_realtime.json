@@ -3,7 +3,7 @@
   "chart": "Real-time",
   "source": "FLO API",
   "artist": "FLARE U (플레어 유)",
-  "updated_at": "2026-11-14T04:00:00+09:00",
+  "updated_at": "2026-11-14T09:00:00+09:00",
   "snapshots": [
     {
       "snapshot_time": "2026-08-17T15:00:00+09:00",
@@ -11925,6 +11925,15 @@
       "snapshot_time": "2026-11-14T04:00:00+09:00",
       "date": "2026-11-14",
       "hour": 4,
+      "platform": "FLO",
+      "chart": "Real-time",
+      "source": "FLO API",
+      "songs": []
+    },
+    {
+      "snapshot_time": "2026-11-14T09:00:00+09:00",
+      "date": "2026-11-14",
+      "hour": 9,
       "platform": "FLO",
       "chart": "Real-time",
       "source": "FLO API",
