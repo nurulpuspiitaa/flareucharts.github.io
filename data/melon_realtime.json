@@ -3,138 +3,8 @@
   "chart": "Real-time",
   "source": "Guysome",
   "artist": "FLARE U (플레어 유)",
-  "updated_at": "2026-11-16T04:00:00+09:00",
+  "updated_at": "2026-11-16T08:00:00+09:00",
   "snapshots": [
-    {
-      "snapshot_time": "2026-08-18T07:00:00+09:00",
-      "date": "2026-08-18",
-      "hour": 7,
-      "platform": "Melon",
-      "chart": "Real-time",
-      "source": "Guysome",
-      "songs": [
-        {
-          "rank": 1,
-          "previous_rank": null,
-          "title": "LOVE ATTACK",
-          "artist": "RESCENE (리센느)",
-          "cover": "https://cdn.guyso.me/image/album/melon/11575849.jpg?v=1724753051034&size=80",
-          "likes": 136878,
-          "rank_change": 0,
-          "score": null,
-          "track_id": null
-        },
-        {
-          "rank": 3,
-          "previous_rank": null,
-          "title": "Pretty Girl",
-          "artist": "RESCENE (리센느)",
-          "cover": "https://cdn.guyso.me/image/album/melon/13788545.jpg?v=1786941188248&size=80",
-          "likes": 53193,
-          "rank_change": 0,
-          "score": null,
-          "track_id": null
-        },
-        {
-          "rank": 5,
-          "previous_rank": 8,
-          "title": "Deja Vu",
-          "artist": "RESCENE (리센느)",
-          "cover": "https://cdn.guyso.me/image/album/melon/11875116.jpg?v=1753652582608&size=80",
-          "likes": 44331,
-          "rank_change": -3,
-          "score": null,
-          "track_id": null
-        },
-        {
-          "rank": 45,
-          "previous_rank": 46,
-          "title": "Runaway",
-          "artist": "RESCENE (리센느)",
-          "cover": "https://cdn.guyso.me/image/album/melon/13312413.jpg?v=1775642677521&size=80",
-          "likes": 29397,
-          "rank_change": -1,
-          "score": null,
-          "track_id": null
-        },
-        {
-          "rank": 87,
-          "previous_rank": 92,
-          "title": "Pinball",
-          "artist": "RESCENE (리센느)",
-          "cover": "https://cdn.guyso.me/image/album/melon/11575849.jpg?v=1724753051034&size=80",
-          "likes": 22356,
-          "rank_change": -5,
-          "score": null,
-          "track_id": null
-        }
-      ]
-    },
-    {
-      "snapshot_time": "2026-08-18T08:00:00+09:00",
-      "date": "2026-08-18",
-      "hour": 8,
-      "platform": "Melon",
-      "chart": "Real-time",
-      "source": "Guysome",
-      "songs": [
-        {
-          "rank": 1,
-          "previous_rank": null,
-          "title": "LOVE ATTACK",
-          "artist": "RESCENE (리센느)",
-          "cover": "https://cdn.guyso.me/image/album/melon/11575849.jpg?v=1724753051034&size=80",
-          "likes": 136904,
-          "rank_change": 0,
-          "score": null,
-          "track_id": null
-        },
-        {
-          "rank": 3,
-          "previous_rank": null,
-          "title": "Pretty Girl",
-          "artist": "RESCENE (리센느)",
-          "cover": "https://cdn.guyso.me/image/album/melon/13788545.jpg?v=1786941188248&size=80",
-          "likes": 53215,
-          "rank_change": 0,
-          "score": null,
-          "track_id": null
-        },
-        {
-          "rank": 5,
-          "previous_rank": null,
-          "title": "Deja Vu",
-          "artist": "RESCENE (리센느)",
-          "cover": "https://cdn.guyso.me/image/album/melon/11875116.jpg?v=1753652582608&size=80",
-          "likes": 44355,
-          "rank_change": 0,
-          "score": null,
-          "track_id": null
-        },
-        {
-          "rank": 33,
-          "previous_rank": 45,
-          "title": "Runaway",
-          "artist": "RESCENE (리센느)",
-          "cover": "https://cdn.guyso.me/image/album/melon/13312413.jpg?v=1775642677521&size=80",
-          "likes": 29413,
-          "rank_change": 12,
-          "score": null,
-          "track_id": null
-        },
-        {
-          "rank": 62,
-          "previous_rank": 87,
-          "title": "Pinball",
-          "artist": "RESCENE (리센느)",
-          "cover": "https://cdn.guyso.me/image/album/melon/11575849.jpg?v=1724753051034&size=80",
-          "likes": 22368,
-          "rank_change": 25,
-          "score": null,
-          "track_id": null
-        }
-      ]
-    },
     {
       "snapshot_time": "2026-08-18T10:00:00+09:00",
       "date": "2026-08-18",
@@ -8962,6 +8832,15 @@
       "snapshot_time": "2026-11-16T04:00:00+09:00",
       "date": "2026-11-16",
       "hour": 4,
+      "platform": "Melon",
+      "chart": "Real-time",
+      "source": "Guysome",
+      "songs": []
+    },
+    {
+      "snapshot_time": "2026-11-16T08:00:00+09:00",
+      "date": "2026-11-16",
+      "hour": 8,
       "platform": "Melon",
       "chart": "Real-time",
       "source": "Guysome",
