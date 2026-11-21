@@ -3,89 +3,8 @@
   "chart": "Real-time",
   "source": "Guysome",
   "artist": "FLARE U (플레어 유)",
-  "updated_at": "2026-11-21T12:00:00+09:00",
+  "updated_at": "2026-11-21T21:00:00+09:00",
   "snapshots": [
-    {
-      "snapshot_time": "2026-08-23T13:00:00+09:00",
-      "date": "2026-08-23",
-      "hour": 13,
-      "platform": "Melon",
-      "chart": "Real-time",
-      "source": "Guysome",
-      "songs": []
-    },
-    {
-      "snapshot_time": "2026-08-23T14:00:00+09:00",
-      "date": "2026-08-23",
-      "hour": 14,
-      "platform": "Melon",
-      "chart": "Real-time",
-      "source": "Guysome",
-      "songs": []
-    },
-    {
-      "snapshot_time": "2026-08-23T15:00:00+09:00",
-      "date": "2026-08-23",
-      "hour": 15,
-      "platform": "Melon",
-      "chart": "Real-time",
-      "source": "Guysome",
-      "songs": []
-    },
-    {
-      "snapshot_time": "2026-08-23T16:00:00+09:00",
-      "date": "2026-08-23",
-      "hour": 16,
-      "platform": "Melon",
-      "chart": "Real-time",
-      "source": "Guysome",
-      "songs": []
-    },
-    {
-      "snapshot_time": "2026-08-23T17:00:00+09:00",
-      "date": "2026-08-23",
-      "hour": 17,
-      "platform": "Melon",
-      "chart": "Real-time",
-      "source": "Guysome",
-      "songs": []
-    },
-    {
-      "snapshot_time": "2026-08-23T18:00:00+09:00",
-      "date": "2026-08-23",
-      "hour": 18,
-      "platform": "Melon",
-      "chart": "Real-time",
-      "source": "Guysome",
-      "songs": []
-    },
-    {
-      "snapshot_time": "2026-08-23T19:00:00+09:00",
-      "date": "2026-08-23",
-      "hour": 19,
-      "platform": "Melon",
-      "chart": "Real-time",
-      "source": "Guysome",
-      "songs": []
-    },
-    {
-      "snapshot_time": "2026-08-23T20:00:00+09:00",
-      "date": "2026-08-23",
-      "hour": 20,
-      "platform": "Melon",
-      "chart": "Real-time",
-      "source": "Guysome",
-      "songs": []
-    },
-    {
-      "snapshot_time": "2026-08-23T21:00:00+09:00",
-      "date": "2026-08-23",
-      "hour": 21,
-      "platform": "Melon",
-      "chart": "Real-time",
-      "source": "Guysome",
-      "songs": []
-    },
     {
       "snapshot_time": "2026-08-23T22:00:00+09:00",
       "date": "2026-08-23",
@@ -4482,6 +4401,15 @@
       "snapshot_time": "2026-11-21T12:00:00+09:00",
       "date": "2026-11-21",
       "hour": 12,
+      "platform": "Melon",
+      "chart": "Real-time",
+      "source": "Guysome",
+      "songs": []
+    },
+    {
+      "snapshot_time": "2026-11-21T21:00:00+09:00",
+      "date": "2026-11-21",
+      "hour": 21,
       "platform": "Melon",
       "chart": "Real-time",
       "source": "Guysome",
