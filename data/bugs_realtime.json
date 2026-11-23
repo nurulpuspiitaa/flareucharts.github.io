@@ -3,197 +3,8 @@
   "chart": "Real-time",
   "source": "Bugs",
   "artist": "FLARE U (플레어 유)",
-  "updated_at": "2026-11-23T11:00:00+09:00",
+  "updated_at": "2026-11-24T08:00:00+09:00",
   "snapshots": [
-    {
-      "snapshot_time": "2026-08-25T12:00:00+09:00",
-      "date": "2026-08-25",
-      "hour": 12,
-      "platform": "Bugs",
-      "chart": "Real-time",
-      "source": "Bugs",
-      "songs": []
-    },
-    {
-      "snapshot_time": "2026-08-25T13:00:00+09:00",
-      "date": "2026-08-25",
-      "hour": 13,
-      "platform": "Bugs",
-      "chart": "Real-time",
-      "source": "Bugs",
-      "songs": []
-    },
-    {
-      "snapshot_time": "2026-08-25T14:00:00+09:00",
-      "date": "2026-08-25",
-      "hour": 14,
-      "platform": "Bugs",
-      "chart": "Real-time",
-      "source": "Bugs",
-      "songs": []
-    },
-    {
-      "snapshot_time": "2026-08-25T15:00:00+09:00",
-      "date": "2026-08-25",
-      "hour": 15,
-      "platform": "Bugs",
-      "chart": "Real-time",
-      "source": "Bugs",
-      "songs": []
-    },
-    {
-      "snapshot_time": "2026-08-25T16:00:00+09:00",
-      "date": "2026-08-25",
-      "hour": 16,
-      "platform": "Bugs",
-      "chart": "Real-time",
-      "source": "Bugs",
-      "songs": []
-    },
-    {
-      "snapshot_time": "2026-08-25T17:00:00+09:00",
-      "date": "2026-08-25",
-      "hour": 17,
-      "platform": "Bugs",
-      "chart": "Real-time",
-      "source": "Bugs",
-      "songs": []
-    },
-    {
-      "snapshot_time": "2026-08-25T18:00:00+09:00",
-      "date": "2026-08-25",
-      "hour": 18,
-      "platform": "Bugs",
-      "chart": "Real-time",
-      "source": "Bugs",
-      "songs": []
-    },
-    {
-      "snapshot_time": "2026-08-25T19:00:00+09:00",
-      "date": "2026-08-25",
-      "hour": 19,
-      "platform": "Bugs",
-      "chart": "Real-time",
-      "source": "Bugs",
-      "songs": []
-    },
-    {
-      "snapshot_time": "2026-08-25T20:00:00+09:00",
-      "date": "2026-08-25",
-      "hour": 20,
-      "platform": "Bugs",
-      "chart": "Real-time",
-      "source": "Bugs",
-      "songs": []
-    },
-    {
-      "snapshot_time": "2026-08-25T21:00:00+09:00",
-      "date": "2026-08-25",
-      "hour": 21,
-      "platform": "Bugs",
-      "chart": "Real-time",
-      "source": "Bugs",
-      "songs": []
-    },
-    {
-      "snapshot_time": "2026-08-25T22:00:00+09:00",
-      "date": "2026-08-25",
-      "hour": 22,
-      "platform": "Bugs",
-      "chart": "Real-time",
-      "source": "Bugs",
-      "songs": []
-    },
-    {
-      "snapshot_time": "2026-08-25T23:00:00+09:00",
-      "date": "2026-08-25",
-      "hour": 23,
-      "platform": "Bugs",
-      "chart": "Real-time",
-      "source": "Bugs",
-      "songs": []
-    },
-    {
-      "snapshot_time": "2026-08-26T00:00:00+09:00",
-      "date": "2026-08-26",
-      "hour": 0,
-      "platform": "Bugs",
-      "chart": "Real-time",
-      "source": "Bugs",
-      "songs": []
-    },
-    {
-      "snapshot_time": "2026-08-26T01:00:00+09:00",
-      "date": "2026-08-26",
-      "hour": 1,
-      "platform": "Bugs",
-      "chart": "Real-time",
-      "source": "Bugs",
-      "songs": []
-    },
-    {
-      "snapshot_time": "2026-08-26T02:00:00+09:00",
-      "date": "2026-08-26",
-      "hour": 2,
-      "platform": "Bugs",
-      "chart": "Real-time",
-      "source": "Bugs",
-      "songs": []
-    },
-    {
-      "snapshot_time": "2026-08-26T03:00:00+09:00",
-      "date": "2026-08-26",
-      "hour": 3,
-      "platform": "Bugs",
-      "chart": "Real-time",
-      "source": "Bugs",
-      "songs": []
-    },
-    {
-      "snapshot_time": "2026-08-26T04:00:00+09:00",
-      "date": "2026-08-26",
-      "hour": 4,
-      "platform": "Bugs",
-      "chart": "Real-time",
-      "source": "Bugs",
-      "songs": []
-    },
-    {
-      "snapshot_time": "2026-08-26T05:00:00+09:00",
-      "date": "2026-08-26",
-      "hour": 5,
-      "platform": "Bugs",
-      "chart": "Real-time",
-      "source": "Bugs",
-      "songs": []
-    },
-    {
-      "snapshot_time": "2026-08-26T06:00:00+09:00",
-      "date": "2026-08-26",
-      "hour": 6,
-      "platform": "Bugs",
-      "chart": "Real-time",
-      "source": "Bugs",
-      "songs": []
-    },
-    {
-      "snapshot_time": "2026-08-26T07:00:00+09:00",
-      "date": "2026-08-26",
-      "hour": 7,
-      "platform": "Bugs",
-      "chart": "Real-time",
-      "source": "Bugs",
-      "songs": []
-    },
-    {
-      "snapshot_time": "2026-08-26T08:00:00+09:00",
-      "date": "2026-08-26",
-      "hour": 8,
-      "platform": "Bugs",
-      "chart": "Real-time",
-      "source": "Bugs",
-      "songs": []
-    },
     {
       "snapshot_time": "2026-08-26T10:00:00+09:00",
       "date": "2026-08-26",
@@ -4824,6 +4635,15 @@
       "snapshot_time": "2026-11-23T11:00:00+09:00",
       "date": "2026-11-23",
       "hour": 11,
+      "platform": "Bugs",
+      "chart": "Real-time",
+      "source": "Bugs",
+      "songs": []
+    },
+    {
+      "snapshot_time": "2026-11-24T08:00:00+09:00",
+      "date": "2026-11-24",
+      "hour": 8,
       "platform": "Bugs",
       "chart": "Real-time",
       "source": "Bugs",
