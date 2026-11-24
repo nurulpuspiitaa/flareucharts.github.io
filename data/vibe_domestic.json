@@ -3,71 +3,8 @@
   "chart": "Domestic",
   "source": "VIBE API",
   "artist": "FLARE U (플레어 유)",
-  "updated_at": "2026-11-24T08:00:00+09:00",
+  "updated_at": "2026-11-24T17:00:00+09:00",
   "snapshots": [
-    {
-      "snapshot_time": "2026-08-26T10:00:00+09:00",
-      "date": "2026-08-26",
-      "hour": 10,
-      "platform": "VIBE",
-      "chart": "Domestic",
-      "source": "VIBE API",
-      "songs": []
-    },
-    {
-      "snapshot_time": "2026-08-26T12:00:00+09:00",
-      "date": "2026-08-26",
-      "hour": 12,
-      "platform": "VIBE",
-      "chart": "Domestic",
-      "source": "VIBE API",
-      "songs": []
-    },
-    {
-      "snapshot_time": "2026-08-26T13:00:00+09:00",
-      "date": "2026-08-26",
-      "hour": 13,
-      "platform": "VIBE",
-      "chart": "Domestic",
-      "source": "VIBE API",
-      "songs": []
-    },
-    {
-      "snapshot_time": "2026-08-26T14:00:00+09:00",
-      "date": "2026-08-26",
-      "hour": 14,
-      "platform": "VIBE",
-      "chart": "Domestic",
-      "source": "VIBE API",
-      "songs": []
-    },
-    {
-      "snapshot_time": "2026-08-26T15:00:00+09:00",
-      "date": "2026-08-26",
-      "hour": 15,
-      "platform": "VIBE",
-      "chart": "Domestic",
-      "source": "VIBE API",
-      "songs": []
-    },
-    {
-      "snapshot_time": "2026-08-26T16:00:00+09:00",
-      "date": "2026-08-26",
-      "hour": 16,
-      "platform": "VIBE",
-      "chart": "Domestic",
-      "source": "VIBE API",
-      "songs": []
-    },
-    {
-      "snapshot_time": "2026-08-26T17:00:00+09:00",
-      "date": "2026-08-26",
-      "hour": 17,
-      "platform": "VIBE",
-      "chart": "Domestic",
-      "source": "VIBE API",
-      "songs": []
-    },
     {
       "snapshot_time": "2026-08-26T18:00:00+09:00",
       "date": "2026-08-26",
@@ -4986,6 +4923,15 @@
       "snapshot_time": "2026-11-24T08:00:00+09:00",
       "date": "2026-11-24",
       "hour": 8,
+      "platform": "VIBE",
+      "chart": "Domestic",
+      "source": "VIBE API",
+      "songs": []
+    },
+    {
+      "snapshot_time": "2026-11-24T17:00:00+09:00",
+      "date": "2026-11-24",
+      "hour": 17,
       "platform": "VIBE",
       "chart": "Domestic",
       "source": "VIBE API",
