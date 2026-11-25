@@ -3,26 +3,8 @@
   "chart": "TOP200",
   "source": "Genie",
   "artist": "FLARE U (플레어 유)",
-  "updated_at": "2026-11-25T22:00:00+09:00",
+  "updated_at": "2026-11-26T07:00:00+09:00",
   "snapshots": [
-    {
-      "snapshot_time": "2026-08-27T23:00:00+09:00",
-      "date": "2026-08-27",
-      "hour": 23,
-      "platform": "Genie",
-      "chart": "TOP200",
-      "source": "Genie",
-      "songs": []
-    },
-    {
-      "snapshot_time": "2026-08-28T01:00:00+09:00",
-      "date": "2026-08-28",
-      "hour": 1,
-      "platform": "Genie",
-      "chart": "TOP200",
-      "source": "Genie",
-      "songs": []
-    },
     {
       "snapshot_time": "2026-08-28T10:00:00+09:00",
       "date": "2026-08-28",
@@ -3963,6 +3945,15 @@
       "snapshot_time": "2026-11-25T22:00:00+09:00",
       "date": "2026-11-25",
       "hour": 22,
+      "platform": "Genie",
+      "chart": "TOP200",
+      "source": "Genie",
+      "songs": []
+    },
+    {
+      "snapshot_time": "2026-11-26T07:00:00+09:00",
+      "date": "2026-11-26",
+      "hour": 7,
       "platform": "Genie",
       "chart": "TOP200",
       "source": "Genie",
